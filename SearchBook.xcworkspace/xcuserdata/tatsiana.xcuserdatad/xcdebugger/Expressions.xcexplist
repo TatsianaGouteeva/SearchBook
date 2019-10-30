@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Book.init(json:):Book.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dic[0]">
+            </PersistentString>
+            <PersistentString
+               value = "value?.value(forKeyPath: &quot;title&quot;) as! String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.searchBtn(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.getResponse():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.getBooks(onComplete:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.getResponse():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "item[3]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.searchBtn(_:):ViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
